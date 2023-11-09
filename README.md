@@ -31,6 +31,9 @@ In process...
 
 ## GUI
 
+The application that trains canonical and hierarchical models and seeks to find interpretability between the features used by the models is available for free at: https://huggingface.co/spaces/alvaropq/explainable_classification
+
+
 The figure presents an example of the developed application.
 
 
@@ -40,5 +43,3 @@ It allows you to train a machine learning model in a canonical or hierarchical w
 The sidebar presents the step-by-step guide for training the model, consisting of importing the data, then it is possible to train a model that can be downloaded and the impacts of the features in different visual forms can be analyzed in the next step. Finally, it is also possible to make inferences with the models that were developed in the application for unknown data, where graphical forms of explainability of the reasons for the models' decisions will be shown.
 
 The application develops the concepts covered in this article and allows easy access to the application of machine learning models and feature analysis and model explainability through the SHapley Additive exPlanations (SHAP) method, which uses individual predictions based on Shapley values of game theory, identifying the contribution of each feature to the prediction.
-
-```
