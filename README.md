@@ -26,7 +26,7 @@ In process...
 ## Data
 - **Raw datas:** https://drive.google.com/drive/folders/1CgQYvzoJApajpeBxjcKCm_rcJRIAXYQY?usp=sharing
 - **Processed datas:** https://drive.google.com/drive/folders/1eYPaWGxCNYP_f-d5nUo_y-mpTSdBf-WW?usp=sharing
-- **Variance Correlation Filter:** https://drive.google.com/drive/folders/1VxuIBD6bQigMFDvE8ZFvQYHVWR6HZBPx?usp=drive_link
+- **Variance Correlation Filter:** https://drive.google.com/drive/folders/1VxuIBD6bQigMFDvE8ZFvQYHVWR6HZBPx?usp=sharing
 
 
 ## GUI
