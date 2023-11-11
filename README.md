@@ -36,7 +36,9 @@ The application that trains canonical and hierarchical models and seeks to find 
 
 The figure presents an example of the developed application.
 
-
+<h1 align="left">
+  <img src="https://github.com/alvaropq/leukemia_multiclass/blob/main/img/webapp.png" alt="App Explainable Classification" width="650">
+</h1>
 
 It allows you to train a machine learning model in a canonical or hierarchical way using Decision Tree, Random Forest, SVM and AdaBoosting techniques and analyze the impact results of the features for class classification.
 
